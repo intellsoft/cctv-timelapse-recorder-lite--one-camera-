@@ -57,7 +57,7 @@
 Snapshot_interval = 5
 ```
 
-[![فیلم نرم افزار در حال کار](https://raw.githubusercontent.com/intellsoft/cctv-timelapse-recorder-lite--one-camera-/main/thumbnail.jpg)](https://raw.githubusercontent.com/intellsoft/cctv-timelapse-recorder-lite--one-camera-/main/فیلم عملکرد نرم افزار در حال کار.mp4)
+[![فیلم نرم افزار در حال کار](https://github.com/intellsoft/cctv-timelapse-recorder-lite--one-camera-/blob/main/thumbnail.png)](https://github.com/intellsoft/cctv-timelapse-recorder-lite--one-camera-/blob/main/%D9%81%DB%8C%D9%84%D9%85%20%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF%20%D9%86%D8%B1%D9%85%20%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%20%D8%AF%D8%B1%20%D8%AD%D8%A7%D9%84%20%DA%A9%D8%A7%D8%B1.mp4)
 
 
 </p>
